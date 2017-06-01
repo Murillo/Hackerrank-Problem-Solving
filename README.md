@@ -5,7 +5,7 @@
   </a>
 </div>
 
-This repository contains the challenges of[algorithms](https://www.hackerrank.com/domains/algorithms) of the site Hackerrank.
+This repository contains the challenges of [algorithms](https://www.hackerrank.com/domains/algorithms) of the site Hackerrank.
 
 | Subdomain     | Challenge                               | Level | Max Score | Score Obtained |
 | :------------ |:--------------------------------------- |:-----:|:---------:|:--------------:|
