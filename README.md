@@ -4,7 +4,8 @@
   <img width="400px" src="https://blog.hackerrank.com/wp-content/uploads/2017/04/logo_HRwordmark2700x670_2-1.png" />
   </a>
 </div>
-This repository contains the challenges of [algorithms](https://www.hackerrank.com/domains/algorithms) of the site Hackerrank.
+
+This repository contains the challenges of[algorithms](https://www.hackerrank.com/domains/algorithms) of the site Hackerrank.
 
 | Subdomain     | Challenge                               | Level | Max Score | Score Obtained |
 | :------------ |:--------------------------------------- |:-----:|:---------:|:--------------:|
