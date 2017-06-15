@@ -19,3 +19,6 @@ This repository contains the challenges of [algorithms](https://www.hackerrank.c
 | Warmup        | [Mini-Max Sum](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Warmup/mini-max-sum.py)                       | Easy  | 10      | 10           |
 | Warmup        | [Birthday Cake Candles](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Warmup/birthday-cake-candles.py)                       | Easy  | 10      | 10           |
 | Warmup        | [Time Conversion](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Warmup/time-conversion.py)                       | Easy  | 15      | 15           |
+| Implementation        | [Grading Students](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/grading.py)                       | Easy  | 10      | 10           |
+| Implementation        | [Apple and Orange](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/apple-and-orange.py)                       | Easy  | 10      | 10           |
+| Implementation        | [ Kangaroo](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/kangaroo.py)                       | Easy  | 10      | 10           |
