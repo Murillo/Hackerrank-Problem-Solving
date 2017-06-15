@@ -14,3 +14,8 @@ This repository contains the challenges of [algorithms](https://www.hackerrank.c
 | Warmup        | [Compare the Triplets](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Warmup/compare-the-triplets.py)                       | Easy  | 10      | 10           |
 | Warmup        | [A Very Big Sum](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Warmup/a-very-big-sum.py)                       | Easy  | 10      | 10           |
 | Warmup        | [Diagonal Difference](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Warmup/diagonal-difference.py)                       | Easy  | 10      | 10           |
+| Warmup        | [Plus Minus](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Warmup/plus-minus.py)                       | Easy  | 10      | 10           |
+| Warmup        | [Staircase](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Warmup/staircase.py)                       | Easy  | 10      | 10           |
+| Warmup        | [Mini-Max Sum](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Warmup/mini-max-sum.py)                       | Easy  | 10      | 10           |
+| Warmup        | [Birthday Cake Candles](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Warmup/birthday-cake-candles.py)                       | Easy  | 10      | 10           |
+| Warmup        | [Time Conversion](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Warmup/time-conversion.py)                       | Easy  | 15      | 15           |
