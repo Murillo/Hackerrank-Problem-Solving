@@ -21,4 +21,5 @@ This repository contains the challenges of [algorithms](https://www.hackerrank.c
 | Warmup        | [Time Conversion](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Warmup/time-conversion.py)                       | Easy  | 15      | 15           |
 | Implementation        | [Grading Students](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/grading.py)                       | Easy  | 10      | 10           |
 | Implementation        | [Apple and Orange](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/apple-and-orange.py)                       | Easy  | 10      | 10           |
-| Implementation        | [ Kangaroo](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/kangaroo.py)                       | Easy  | 10      | 10           |
+| Implementation        | [Kangaroo](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/kangaroo.py)                       | Easy  | 10      | 10           |
+| Implementation        | [Between Two Sets](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/between-two-sets.py)                       | Easy  | 10      | 10           |
