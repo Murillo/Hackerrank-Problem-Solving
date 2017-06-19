@@ -23,3 +23,5 @@ This repository contains the challenges of [algorithms](https://www.hackerrank.c
 | Implementation        | [Apple and Orange](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/apple-and-orange.py)                       | Easy  | 10      | 10           |
 | Implementation        | [Kangaroo](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/kangaroo.py)                       | Easy  | 10      | 10           |
 | Implementation        | [Between Two Sets](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/between-two-sets.py)                       | Easy  | 10      | 10           |
+| Implementation        | [Breaking the Records](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/breaking-best-and-worst-records.py)                       | Easy  | 10      | 10           |
+| Implementation        | [Birthday Chocolate](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/the-birthday-bar.py)                       | Easy  | 10      | 10           |
