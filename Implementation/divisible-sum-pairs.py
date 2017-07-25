@@ -2,8 +2,12 @@
 # Developer: Murillo Grubler
 
 def divisibleSumPairs(n, k, ar):
-    # Complete this function
-    return 1
+    total = 0
+    for i in range(n):
+        for j in range(n):
+            if i < j and ((ar[i] + ar[j]) % k) == 0:
+                total += 1
+    return total
 
 n, k = [int(numbers) for numbers in input().strip().split(' ')]
 ar = list(map(int, input().strip().split(' ')))
