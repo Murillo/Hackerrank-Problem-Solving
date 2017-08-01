@@ -11,7 +11,7 @@ def amount(ar):
             types[ar[i]] = 1
     return types
 
-def migratoryBirds(n, ar):
+def migratoryBirds(ar):
     all_types = amount(ar)
     types = 0
     quantity = 0
@@ -26,5 +26,4 @@ def migratoryBirds(n, ar):
 
 n = int(input().strip())
 ar = list(map(int, input().strip().split(' ')))
-result = migratoryBirds(n, ar)
-print(result)
+print(migratoryBirds(ar))
