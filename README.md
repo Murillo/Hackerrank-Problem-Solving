@@ -27,3 +27,4 @@ This repository contains the challenges of [algorithms](https://www.hackerrank.c
 | Implementation        | [Birthday Chocolate](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/the-birthday-bar.py)                       | Easy  | 10      | 10           |
 | Implementation        | [Divisible Sum Pairs](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/divisible-sum-pairs.py)                       | Easy  | 10      | 10           |
 | Implementation        | [Migratory Birds](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/migratory-birds.py)                       | Easy  | 10      | 10           |
+| Strings        | [Super Reduced String](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Strings/reduced-string.py)                       | Easy  | 10      | 10           |
