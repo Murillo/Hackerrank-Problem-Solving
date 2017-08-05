@@ -2,31 +2,23 @@
 # Developer: Murillo Grubler
 # Link: https://www.hackerrank.com/challenges/two-characters/problem
 
-# descobrir todos os chars diferentes
-# obter todas as combinacoes possiveis somando a quantidade de chars e diminuindo por 2
-# remover os chars da string, sobrando apenas duas strins e elas nao podem estar em sequencia
-# somar o char que possui mais caracteres
-
-def single_character(ar):
-    chars = []
-    for i in range(len(ar)):
-        if ar[i] not in chars:
-            chars.append(ar[i])
-    return chars
-
-def get_combinations(ar_chars):
-    combinations = []
-    chars_possible = (len(ar_chars) - 2) * (len(ar_chars) - 2)
-    
-    
-    return []
-
-def remove_chars():
-
-    return []
+def validate(text):
+    for i in range(len(text) - 1):
+        if text[i] == text[i + 1]:
+            return False
+    return True
 
 s_len = int(input().strip())
-s = list(input().strip())
-print (single_character(s))
-last_char = ""
-max_len = 0
+s = input().strip()
+if s_len > 1:
+    sl = list(s)
+    max_len = 0
+    for x in range(len(sl)):
+        for y in range(x+1, len(sl)):
+            if sl[x] != sl[y]:
+                text = [c for c in s if c == sl[x] or c == sl[y]]
+                if validate(text):
+                    max_len = max(max_len, len(text))
+    print (max_len)
+else:
+    print (0)
