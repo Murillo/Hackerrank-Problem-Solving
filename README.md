@@ -32,3 +32,4 @@ This repository contains the challenges of [algorithms](https://www.hackerrank.c
 | Strings        | [Two Characters](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Strings/two-characters.py)                       | Easy  | 20      | 20           |
 | Strings        | [Mars Exploration](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Strings/mars-exploration.py)                       | Easy  | 15      | 15           |
 | Sorting        | [Intro to Tutorial Challenges](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Sorting/tutorial-intro-hackerrank.py)                       | Easy  | 30      | 30           |
+| Sorting        | [Insertion Sort - Part 1](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Sorting/insertionsort1.py)                       | Easy  | 30      | 30           |
