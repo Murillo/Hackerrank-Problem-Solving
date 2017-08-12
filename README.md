@@ -33,3 +33,5 @@ This repository contains the challenges of [algorithms](https://www.hackerrank.c
 | Strings        | [Mars Exploration](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Strings/mars-exploration.py)                       | Easy  | 15      | 15           |
 | Sorting        | [Intro to Tutorial Challenges](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Sorting/tutorial-intro-hackerrank.py)                       | Easy  | 30      | 30           |
 | Sorting        | [Insertion Sort - Part 1](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Sorting/insertionsort1.py)                       | Easy  | 30      | 30           |
+| Sorting        | [Insertion Sort - Part 2](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Sorting/insertionsort2.py)                       | Easy  | 30      | 30           |
+| Sorting        | [Correctness and the Loop Invariant](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Sorting/correctness-invariant.py)                       | Easy  | 30      | 30           |
