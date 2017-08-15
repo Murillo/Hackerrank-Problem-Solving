@@ -37,3 +37,4 @@ This repository contains the challenges of [algorithms](https://www.hackerrank.c
 | Sorting        | [Correctness and the Loop Invariant](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Sorting/correctness-invariant.py)                       | Easy  | 30      | 30           |
 | Sorting        | [Quicksort 1 - Partition](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Sorting/quicksort1.py)                       | Easy  |10      | 10           |
 | Sorting        | [Counting Sort 1](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Sorting/countingsort1.py)                       | Easy  | 30      | 30           |
+| Sorting        | [Counting Sort 2](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Sorting/countingsort2.py)                       | Easy  | 30      | 30           |  
