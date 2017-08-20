@@ -1,6 +1,6 @@
 # Even Tree
 # Developer: Murillo Grubler
-# https://www.hackerrank.com/challenges/fibonacci-modified/problem
+# https://www.hackerrank.com/challenges/even-tree/problem
 
 class Node(object):
 
