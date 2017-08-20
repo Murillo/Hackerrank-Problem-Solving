@@ -11,13 +11,17 @@ class Node(object):
 
     def set_parent(self, parent_val):
         self._parent = parent_val
+        ancestor = parent_val
+        while (ancestor != None):
+            ancestor._descendant += 1
+            ancestor = ancestor.parent
 
     def get_parent(self):
         return self._parent
 
     def set_descendant(self, descendant):
         self._descendant = descendant
-
+       
     def get_descendant(self):
         return self._descendant
 
@@ -29,7 +33,6 @@ class Node(object):
 
     @staticmethod
     def find_parent(nodes, parent):
-        print (parent)
         for node in nodes:
             if node.value == parent:
                 return node
@@ -40,6 +43,7 @@ class Node(object):
     value       = property(get_value, set_value)
 
 
+edges_removeds = 0
 nodes = []
 n, m = input().strip().split(' ')
 for i in range(int(m)):
@@ -55,3 +59,10 @@ for i in range(int(m)):
         node_children = Node(children)
         node_children.parent = Node.find_parent(nodes, parent)
         nodes.append(node_children)
+
+for node in nodes:
+    if node.value > 1 and node.descendant > 0 and node.descendant % 2 == 0:
+        edges_removeds += 1
+    #print ("Node get value {} and has {} descendentes".format(node.value, node.descendant))
+
+print (edges_removeds)
