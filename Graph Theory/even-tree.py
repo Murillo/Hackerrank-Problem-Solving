@@ -29,14 +29,15 @@ class Node(object):
 
     @staticmethod
     def find_parent(nodes, parent):
+        print (parent)
         for node in nodes:
             if node.value == parent:
                 return node
         return None
 
-    parent = property(set_parent, get_parent)
-    descendant = property(set_descendant, get_descendant)
-    value = property(set_value, get_value)
+    parent      = property(get_parent, set_parent)
+    descendant  = property(get_descendant, set_descendant)
+    value       = property(get_value, set_value)
 
 
 nodes = []
@@ -48,12 +49,9 @@ for i in range(int(m)):
         nodes.append(node_parent)
 
         node_children = Node(children)
-        node_children.parent(node_parent)
+        node_children.parent = node_parent
         nodes.append(node_children)
     else:
         node_children = Node(children)
-        node_children.parent(Node.find_parent(nodes, parent))
+        node_children.parent = Node.find_parent(nodes, parent)
         nodes.append(node_children)
-
-for node in nodes:
-    print (node.value)
