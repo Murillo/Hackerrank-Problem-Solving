@@ -39,4 +39,5 @@ This repository contains the challenges of [algorithms](https://www.hackerrank.c
 | Sorting        | [Quicksort 1 - Partition](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Sorting/quicksort1.py)                       | Easy  |10      | 10           |
 | Sorting        | [Counting Sort 1](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Sorting/countingsort1.py)                       | Easy  | 30      | 30           |
 | Sorting        | [Counting Sort 2](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Sorting/countingsort2.py)                       | Easy  | 30      | 30           |  
+| Graph Theory        | [Even Tree](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Graph%20Theory/even-tree.py)                       | Medium  | 50      | 50           |  
 | Dynamic Programming        | [Fibonacci Modified](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Sorting/countingsort2.py)                       | Medium  | 45      | 45           |  
