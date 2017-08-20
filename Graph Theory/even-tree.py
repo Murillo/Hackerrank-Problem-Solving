@@ -61,8 +61,7 @@ for i in range(int(m)):
         nodes.append(node_children)
 
 for node in nodes:
-    if node.value > 1 and node.descendant > 0 and node.descendant % 2 == 0:
+    if node.value > 1 and node.descendant > 0 and node.descendant % 2 == 1:
         edges_removeds += 1
-    #print ("Node get value {} and has {} descendentes".format(node.value, node.descendant))
 
 print (edges_removeds)
