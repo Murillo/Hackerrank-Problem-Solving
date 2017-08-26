@@ -28,10 +28,12 @@ This repository contains the challenges of [algorithms](https://www.hackerrank.c
 | Implementation        | [Divisible Sum Pairs](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/divisible-sum-pairs.py)                       | Easy  | 10      | 10           |
 | Implementation        | [Migratory Birds](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/migratory-birds.py)                       | Easy  | 10      | 10           |
 | Implementation        | [Bon Appétit](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/bon-appetit.py)                       | Easy  | 10      | 10           |
+| Implementation        | [Sock Merchant](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/sock-merchant.py)                       | Easy  | 10      | 10           |
 | Strings        | [Super Reduced String](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Strings/reduced-string.py)                       | Easy  | 10      | 10           |
 | Strings        | [CamelCase](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Strings/camel-case.py)                       | Easy  | 15      | 15           |
 | Strings        | [Two Characters](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Strings/two-characters.py)                       | Easy  | 20      | 20           |
 | Strings        | [Mars Exploration](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Strings/mars-exploration.py)                       | Easy  | 15      | 15           |
+| Strings        | [HackerRank in a String!](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Strings/hackerrank-in-a-string.py)                       | Easy  | 20      | 20           |
 | Sorting        | [Intro to Tutorial Challenges](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Sorting/tutorial-intro-hackerrank.py)                       | Easy  | 30      | 30           |
 | Sorting        | [Insertion Sort - Part 1](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Sorting/insertionsort1.py)                       | Easy  | 30      | 30           |
 | Sorting        | [Insertion Sort - Part 2](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Sorting/insertionsort2.py)                       | Easy  | 30      | 30           |
