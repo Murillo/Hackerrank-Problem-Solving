@@ -44,3 +44,4 @@ This repository contains the challenges of [algorithms](https://www.hackerrank.c
 | Graph Theory        | [Even Tree](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Graph%20Theory/even-tree.py)                       | Medium  | 50      | 50           |  
 | Dynamic Programming        | [Fibonacci Modified](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Sorting/countingsort2.py)                       | Medium  | 45      | 45           |  
 | Search         | [Hackerland Radio Transmitters](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Search/hackerland-radio-transmitters.py)                       | Medium  | 25      | 25           |  
+| Search         | [Ice Cream Parlor](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Search/icecream-parlor.py)                       | Easy  | 30      | 30           |  
