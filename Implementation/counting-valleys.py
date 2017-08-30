@@ -1,6 +1,7 @@
 # Counting Valleys
 # Developer: Murillo Grubler
 # Link: https://www.hackerrank.com/challenges/counting-valleys/problem
+# big-O notation = O(n)
 
 def counting_valleys(n, ar):
     level = 0
