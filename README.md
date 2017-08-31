@@ -29,6 +29,7 @@ This repository contains the challenges of [algorithms](https://www.hackerrank.c
 | Implementation        | [Migratory Birds](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/migratory-birds.py)                       | Easy  | 10      | 10           |
 | Implementation        | [Bon Appétit](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/bon-appetit.py)                       | Easy  | 10      | 10           |
 | Implementation        | [Sock Merchant](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/sock-merchant.py)                       | Easy  | 10      | 10           |
+| Implementation        | [Counting Valleys](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/counting-valleys.py)                       | Easy  | 15      | 15           |
 | Strings        | [Super Reduced String](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Strings/reduced-string.py)                       | Easy  | 10      | 10           |
 | Strings        | [CamelCase](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Strings/camel-case.py)                       | Easy  | 15      | 15           |
 | Strings        | [Two Characters](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Strings/two-characters.py)                       | Easy  | 20      | 20           |
@@ -41,6 +42,7 @@ This repository contains the challenges of [algorithms](https://www.hackerrank.c
 | Sorting        | [Quicksort 1 - Partition](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Sorting/quicksort1.py)                       | Easy  |10      | 10           |
 | Sorting        | [Counting Sort 1](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Sorting/countingsort1.py)                       | Easy  | 30      | 30           |
 | Sorting        | [Counting Sort 2](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Sorting/countingsort2.py)                       | Easy  | 30      | 30           |  
+| Sorting        | [Find the Median](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Sorting/find-the-median.py)                       | Easy  | 35      | 35           |  
 | Graph Theory        | [Even Tree](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Graph%20Theory/even-tree.py)                       | Medium  | 50      | 50           |  
 | Dynamic Programming        | [Fibonacci Modified](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Sorting/countingsort2.py)                       | Medium  | 45      | 45           |  
 | Search         | [Hackerland Radio Transmitters](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Search/hackerland-radio-transmitters.py)                       | Medium  | 25      | 25           |  
