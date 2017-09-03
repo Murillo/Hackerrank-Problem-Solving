@@ -48,3 +48,4 @@ This repository contains the challenges of [algorithms](https://www.hackerrank.c
 | Search         | [Hackerland Radio Transmitters](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Search/hackerland-radio-transmitters.py)                       | Medium  | 25      | 25           |  
 | Search         | [Ice Cream Parlor](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Search/icecream-parlor.py)                       | Easy  | 30      | 30           |  
 | Greedy         | [Marc's Cakewalk](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Greedy/marcs-cakewalk.py)                       | Easy  | 15      | 15           |  
+| Greedy         | [Luck Balance](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Greedy/luck-balance.py)                       | Easy  | 20      | 20           |
