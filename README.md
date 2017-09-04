@@ -30,6 +30,7 @@ This repository contains the challenges of [algorithms](https://www.hackerrank.c
 | Implementation        | [Bon Appétit](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/bon-appetit.py)                       | Easy  | 10      | 10           |
 | Implementation        | [Sock Merchant](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/sock-merchant.py)                       | Easy  | 10      | 10           |
 | Implementation        | [Counting Valleys](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/counting-valleys.py)                       | Easy  | 15      | 15           |
+| Implementation        | [Drawing Book](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/drawing-book.py)                       | Easy  | 10      | 10           |
 | Strings        | [Super Reduced String](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Strings/reduced-string.py)                       | Easy  | 10      | 10           |
 | Strings        | [CamelCase](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Strings/camel-case.py)                       | Easy  | 15      | 15           |
 | Strings        | [Two Characters](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Strings/two-characters.py)                       | Easy  | 20      | 20           |
