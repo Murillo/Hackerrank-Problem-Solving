@@ -1,11 +1,13 @@
 # Cats and a Mouse
 # Developer: Murillo Grubler
 # Link: https://www.hackerrank.com/challenges/cats-and-a-mouse/problem
-# big-O notation = O(1)
+# Reference: https://en.wikipedia.org/wiki/Euclidean_distance
+# Function catch_mouse is big-O notation = O(1)
 
 import math
 
 def catch_mouse(x, y, z):
+    # Euclidean distance 
     cat_1 = math.sqrt((x - z) ** 2)
     cat_2 = math.sqrt((y - z) ** 2)
     if cat_1 < cat_2:
