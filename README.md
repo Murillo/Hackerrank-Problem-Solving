@@ -32,6 +32,7 @@ This repository contains the challenges of [algorithms](https://www.hackerrank.c
 | Implementation        | [Counting Valleys](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/counting-valleys.py)                       | Easy  | 15      | 15           |
 | Implementation        | [Drawing Book](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/drawing-book.py)                       | Easy  | 10      | 10           |
 | Implementation        | [Cats and a Mouse](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/cats-and-a-mouse.py)                       | Easy  | 15      | 15           |
+| Implementation        | [Designer PDF Viewer](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/designer-pdf-viewer.py)                       | Easy  | 20      | 20           |
 | Strings        | [Super Reduced String](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Strings/reduced-string.py)                       | Easy  | 10      | 10           |
 | Strings        | [CamelCase](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Strings/camel-case.py)                       | Easy  | 15      | 15           |
 | Strings        | [Two Characters](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Strings/two-characters.py)                       | Easy  | 20      | 20           |
@@ -51,3 +52,4 @@ This repository contains the challenges of [algorithms](https://www.hackerrank.c
 | Search         | [Ice Cream Parlor](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Search/icecream-parlor.py)                       | Easy  | 30      | 30           |  
 | Greedy         | [Marc's Cakewalk](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Greedy/marcs-cakewalk.py)                       | Easy  | 15      | 15           |  
 | Greedy         | [Luck Balance](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Greedy/luck-balance.py)                       | Easy  | 20      | 20           |
+| Recursion         | [The Power Sum](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Recursion/the-power-sum.py)                       | Medium  | 20      | 20           |
