@@ -33,6 +33,7 @@ This repository contains the challenges of [algorithms](https://www.hackerrank.c
 | Implementation        | [Drawing Book](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/drawing-book.py)                       | Easy  | 10      | 10           |
 | Implementation        | [Cats and a Mouse](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/cats-and-a-mouse.py)                       | Easy  | 15      | 15           |
 | Implementation        | [Designer PDF Viewer](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/designer-pdf-viewer.py)                       | Easy  | 20      | 20           |
+| Implementation        | [The Hurdle Race](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/the-hurdle-race.py)                       | Easy  | 15      | 15           |
 | Strings        | [Super Reduced String](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Strings/reduced-string.py)                       | Easy  | 10      | 10           |
 | Strings        | [CamelCase](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Strings/camel-case.py)                       | Easy  | 15      | 15           |
 | Strings        | [Two Characters](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Strings/two-characters.py)                       | Easy  | 20      | 20           |
