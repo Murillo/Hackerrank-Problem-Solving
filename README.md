@@ -1,9 +1,14 @@
 # Hackerrank - Algorithms
-<div style='float: center; text-align: center; margin-bottom: 20px'>
+<div style='float: center; text-align: center; margin-bottom: 20px' align="center">
   <a href='https://www.hackerrank.com/msgrubler' target="_blank">
   <img width="400px" src="https://blog.hackerrank.com/wp-content/uploads/2017/04/logo_HRwordmark2700x670_2-1.png" />
   </a>
 </div>
+
+<p align="center">
+	<img src="https://img.shields.io/badge/Problems%20Solved-48-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Language-Python-blue.svg">
+</p>
 
 This repository contains the challenges of [algorithms](https://www.hackerrank.com/domains/algorithms) of the site Hackerrank.
 
