@@ -29,11 +29,12 @@ This repository contains the challenges of [algorithms](https://www.hackerrank.c
 | Implementation        | [Migratory Birds](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/migratory-birds.py)                       | Easy  | 10      | 10           |
 | Implementation        | [Bon Appétit](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/bon-appetit.py)                       | Easy  | 10      | 10           |
 | Implementation        | [Sock Merchant](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/sock-merchant.py)                       | Easy  | 10      | 10           |
-| Implementation        | [Counting Valleys](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/counting-valleys.py)                       | Easy  | 15      | 15           |
 | Implementation        | [Drawing Book](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/drawing-book.py)                       | Easy  | 10      | 10           |
+| Implementation        | [Counting Valleys](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/counting-valleys.py)                       | Easy  | 15      | 15           |
 | Implementation        | [Cats and a Mouse](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/cats-and-a-mouse.py)                       | Easy  | 15      | 15           |
-| Implementation        | [Designer PDF Viewer](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/designer-pdf-viewer.py)                       | Easy  | 20      | 20           |
+| Implementation        | [Electronics Shop](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/electronics-shop.py)                       | Easy  | 15      | 15           |
 | Implementation        | [The Hurdle Race](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/the-hurdle-race.py)                       | Easy  | 15      | 15           |
+| Implementation        | [Designer PDF Viewer](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/designer-pdf-viewer.py)                       | Easy  | 20      | 20           |
 | Strings        | [Super Reduced String](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Strings/reduced-string.py)                       | Easy  | 10      | 10           |
 | Strings        | [CamelCase](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Strings/camel-case.py)                       | Easy  | 15      | 15           |
 | Strings        | [Two Characters](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Strings/two-characters.py)                       | Easy  | 20      | 20           |
