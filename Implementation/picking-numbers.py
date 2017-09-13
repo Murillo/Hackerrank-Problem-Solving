@@ -14,8 +14,10 @@ def picking_number(n, arr):
         if len(composition) > len(numbers):
             numbers = composition
 
-    print (Counter(numbers))
-    return len(numbers)
+    # print (numbers)
+    min_num = numbers.count(min(numbers)) + numbers.count(min(numbers) + 1)
+    max_num = numbers.count(max(numbers)) + numbers.count(max(numbers) - 1)
+    return min_num if min_num >= max_num else max_num
 
 n = int(input().strip())
 a = [int(a_temp) for a_temp in input().strip().split(' ')]
