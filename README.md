@@ -6,8 +6,8 @@
 </div>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-49-brightgreen.svg">
-	<img src="https://img.shields.io/badge/Points-846-yellow.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-50-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Points-866-yellow.svg">
 	<img src="https://img.shields.io/badge/Language-Python-blue.svg">
 </p>
 
@@ -42,6 +42,7 @@ This repository contains the challenges of [algorithms](https://www.hackerrank.c
 | Implementation        | [The Hurdle Race](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/the-hurdle-race.py)                       | Easy  | 15      | 15           |
 | Implementation        | [Designer PDF Viewer](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/designer-pdf-viewer.py)                       | Easy  | 20      | 20           |
 | Implementation        | [Picking Numbers](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/picking-numbers.py)                       | Easy  | 20      | 20           |
+| Implementation        | [Sequence Equation](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/permutation-equation.py)                       | Easy  | 20      | 20           |
 | Strings        | [Super Reduced String](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Strings/reduced-string.py)                       | Easy  | 10      | 10           |
 | Strings        | [CamelCase](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Strings/camel-case.py)                       | Easy  | 15      | 15           |
 | Strings        | [Two Characters](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Strings/two-characters.py)                       | Easy  | 20      | 20           |
