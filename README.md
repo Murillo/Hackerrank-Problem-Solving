@@ -40,6 +40,7 @@ This repository contains the challenges of [algorithms](https://www.hackerrank.c
 | Implementation        | [Cats and a Mouse](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/cats-and-a-mouse.py)                       | Easy  | 15      | 15           |
 | Implementation        | [Electronics Shop](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/electronics-shop.py)                       | Easy  | 15      | 15           |
 | Implementation        | [The Hurdle Race](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/the-hurdle-race.py)                       | Easy  | 15      | 15           |
+| Implementation        | [Jumping on the Clouds: Revisited ](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/jumping-on-the-clouds-revisited.py)                       | Easy  | 15      | 15           |
 | Implementation        | [Viral Advertising](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/strange-advertising.py)                       | Easy  | 15      | 15           |
 | Implementation        | [Designer PDF Viewer](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/designer-pdf-viewer.py)                       | Easy  | 20      | 20           |
 | Implementation        | [Picking Numbers](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/picking-numbers.py)                       | Easy  | 20      | 20           |
