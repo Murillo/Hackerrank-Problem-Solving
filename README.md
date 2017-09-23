@@ -46,6 +46,7 @@ This repository contains the challenges of [algorithms](https://www.hackerrank.c
 | Implementation        | [Picking Numbers](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/picking-numbers.py)                       | Easy  | 20      | 20           |
 | Implementation        | [Sequence Equation](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/permutation-equation.py)                       | Easy  | 20      | 20           |
 | Implementation        | [Utopian Tree](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/utopian-tree.py)                       | Easy  | 20      | 20           |
+| Implementation        | [Extra Long Factorials](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/extra-long-factorials.py)                       | Medium  | 20      | 20           |
 | Strings        | [Super Reduced String](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Strings/reduced-string.py)                       | Easy  | 10      | 10           |
 | Strings        | [CamelCase](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Strings/camel-case.py)                       | Easy  | 15      | 15           |
 | Strings        | [Two Characters](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Strings/two-characters.py)                       | Easy  | 20      | 20           |
