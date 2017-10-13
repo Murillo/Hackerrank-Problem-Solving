@@ -6,8 +6,8 @@
 </div>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-55-brightgreen.svg">
-	<img src="https://img.shields.io/badge/Points-981-yellow.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-56-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Points-996-yellow.svg">
 	<img src="https://img.shields.io/badge/Language-Python-blue.svg">
 </p>
 
@@ -38,6 +38,7 @@ This repository contains the challenges of [algorithms](https://www.hackerrank.c
 | Implementation        | [Drawing Book](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/drawing-book.py)                       | Easy  | 10      | 10           |
 | Implementation        | [Counting Valleys](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/counting-valleys.py)                       | Easy  | 15      | 15           |
 | Implementation        | [Cats and a Mouse](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/cats-and-a-mouse.py)                       | Easy  | 15      | 15           |
+| Implementation        | [Beautiful Days at the Movies](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/beautiful-days-at-the-movies.py)                       | Easy  | 15      | 15           |
 | Implementation        | [Electronics Shop](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/electronics-shop.py)                       | Easy  | 15      | 15           |
 | Implementation        | [The Hurdle Race](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/the-hurdle-race.py)                       | Easy  | 15      | 15           |
 | Implementation        | [Jumping on the Clouds: Revisited ](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/jumping-on-the-clouds-revisited.py)                       | Easy  | 15      | 15           |
