@@ -6,8 +6,8 @@
 </div>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-60-brightgreen.svg">
-	<img src="https://img.shields.io/badge/Points-1081-yellow.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-61-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Points-1101-yellow.svg">
 	<img src="https://img.shields.io/badge/Language-Python-blue.svg">
 </p>
 
@@ -59,6 +59,7 @@ This repository contains the challenges of [algorithms](https://www.hackerrank.c
 | Strings        | [Two Characters](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Strings/two-characters.py)                       | Easy  | 20      | 20           |
 | Strings        | [Mars Exploration](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Strings/mars-exploration.py)                       | Easy  | 15      | 15           |
 | Strings        | [HackerRank in a String!](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Strings/hackerrank-in-a-string.py)                       | Easy  | 20      | 20           |
+| Strings        | [Pangrams](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Strings/pangrams.py)                       | Easy  | 20      | 20           |
 | Sorting        | [Intro to Tutorial Challenges](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Sorting/tutorial-intro-hackerrank.py)                       | Easy  | 30      | 30           |
 | Sorting        | [Insertion Sort - Part 1](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Sorting/insertionsort1.py)                       | Easy  | 30      | 30           |
 | Sorting        | [Insertion Sort - Part 2](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Sorting/insertionsort2.py)                       | Easy  | 30      | 30           |
