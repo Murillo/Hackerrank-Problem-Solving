@@ -6,8 +6,8 @@
 </div>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-61-brightgreen.svg">
-	<img src="https://img.shields.io/badge/Points-1101-yellow.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-62-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Points-1121-yellow.svg">
 	<img src="https://img.shields.io/badge/Language-Python-blue.svg">
 </p>
 
@@ -47,6 +47,7 @@ This repository contains the challenges of [algorithms](https://www.hackerrank.c
 | Implementation        | [Picking Numbers](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/picking-numbers.py)                       | Easy  | 20      | 20           |
 | Implementation        | [Sequence Equation](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/permutation-equation.py)                       | Easy  | 20      | 20           |
 | Implementation        | [Angry Professor](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/angry-professor.py)                       | Easy  | 20      | 20           |
+| Implementation        | [Service Lane](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/service-lane.py)                       | Easy  | 20      | 20           |
 | Implementation        | [Repeated String](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/repeated-string.py)                       | Easy  | 20      | 20           |
 | Implementation        | [Utopian Tree](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/utopian-tree.py)                       | Easy  | 20      | 20           |
 | Implementation        | [Equalize the Array](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/equality-in-a-array.py)                       | Easy  | 20      | 20           |
