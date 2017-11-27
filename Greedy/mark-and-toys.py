@@ -1,6 +1,7 @@
 # Mark and Toys
 # Developer: Murillo Grubler
 # Link: https://www.hackerrank.com/challenges/mark-and-toys/problem
+# Time complexity: O(n)
 
 def maximumToys(prices, k):
     total = 0
