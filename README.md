@@ -6,8 +6,8 @@
 </div>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-62-brightgreen.svg">
-	<img src="https://img.shields.io/badge/Points-1121-yellow.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-63-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Points-1156-yellow.svg">
 	<img src="https://img.shields.io/badge/Language-Python-blue.svg">
 </p>
 
@@ -76,4 +76,5 @@ This repository contains the challenges of [algorithms](https://www.hackerrank.c
 | Search         | [Ice Cream Parlor](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Search/icecream-parlor.py)                       | Easy  | 30      | 30           |  
 | Greedy         | [Marc's Cakewalk](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Greedy/marcs-cakewalk.py)                       | Easy  | 15      | 15           |  
 | Greedy         | [Luck Balance](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Greedy/luck-balance.py)                       | Easy  | 20      | 20           |
+| Greedy         | [Mark and Toys](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Greedy/mark-and-toys.py)                       | Easy  | 35      | 35           |
 | Recursion         | [The Power Sum](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Recursion/the-power-sum.py)                       | Medium  | 20      | 20           |
