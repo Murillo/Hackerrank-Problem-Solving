@@ -1,6 +1,7 @@
 # Lisa's Workbook
 # Developer: Murillo Grubler
 # Link: https://www.hackerrank.com/challenges/lisa-workbook/problem
+# Time complexity: O(n³)
 
 import math
 
@@ -26,5 +27,4 @@ def workbook(n, p, chapters):
 
 n,k = list(map(int, input().strip().split(' ')))
 chapters = list(map(int, input().strip().split(' ')))
-
 print (workbook(n, k, chapters))
