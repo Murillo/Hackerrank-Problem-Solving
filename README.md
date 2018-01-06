@@ -6,8 +6,8 @@
 </div>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-67-brightgreen.svg">
-	<img src="https://img.shields.io/badge/Points-1276-yellow.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-68-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Points-1301-yellow.svg">
 	<img src="https://img.shields.io/badge/Language-Python-blue.svg">
 </p>
 
@@ -57,6 +57,7 @@ This repository contains the challenges of [algorithms](https://www.hackerrank.c
 | Implementation        | [Find Digits](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/find-digits.py)                       | Easy  | 25      | 25           |
 | Implementation        | [Cut the sticks](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/cut-the-sticks.py)                       | Easy  | 25      | 25           |
 | Implementation        | [Lisa's Workbook](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/lisa-workbook.py)                       | Easy  | 25      | 25           |
+| Implementation        | [The Time in Words](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/the-time-in-words.py)                       | Easy  | 25      | 25           |
 | Strings        | [Super Reduced String](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Strings/reduced-string.py)                       | Easy  | 10      | 10           |
 | Strings        | [CamelCase](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Strings/camel-case.py)                       | Easy  | 15      | 15           |
 | Strings        | [Two Characters](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Strings/two-characters.py)                       | Easy  | 20      | 20           |
