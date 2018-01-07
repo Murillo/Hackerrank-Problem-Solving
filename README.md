@@ -6,8 +6,8 @@
 </div>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-68-brightgreen.svg">
-	<img src="https://img.shields.io/badge/Points-1301-yellow.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-69-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Points-1326-yellow.svg">
 	<img src="https://img.shields.io/badge/Language-Python-blue.svg">
 </p>
 
@@ -56,6 +56,7 @@ This repository contains the challenges of [algorithms](https://www.hackerrank.c
 | Implementation        | [Extra Long Factorials](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/extra-long-factorials.py)                       | Medium  | 20      | 20           |
 | Implementation        | [Find Digits](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/find-digits.py)                       | Easy  | 25      | 25           |
 | Implementation        | [Cut the sticks](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/cut-the-sticks.py)                       | Easy  | 25      | 25           |
+| Implementation        | [Taum and B'day](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/taum-and-bday.py)                       | Easy  | 25      | 25           |
 | Implementation        | [Lisa's Workbook](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/lisa-workbook.py)                       | Easy  | 25      | 25           |
 | Implementation        | [The Time in Words](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/the-time-in-words.py)                       | Medium  | 25      | 25           |
 | Strings        | [Super Reduced String](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Strings/reduced-string.py)                       | Easy  | 10      | 10           |
