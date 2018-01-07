@@ -1,17 +1,12 @@
-# The Time in Words
+# Taum and B'day
 # Developer: Murillo Grubler
-# Link: https://www.hackerrank.com/challenges/the-time-in-words
-# Time Complexity = O(1)
-
-def taumBday(b, w, x, y, z):
-    # Complete this function
-    return 0
+# Link: https://www.hackerrank.com/challenges/taum-and-bday/problem
+# Time Complexity = O(n)
 
 t = int(input().strip())
-for a0 in range(t):
-    b, w = input().strip().split(' ')
-    b, w = [int(b), int(w)]
-    x, y, z = input().strip().split(' ')
-    x, y, z = [int(x), int(y), int(z)]
-    result = taumBday(b, w, x, y, z)
-    print(result)
+for a in range(t):
+    b,w = map(int, input().strip().split(' '))
+    x,y,z = map(int, input().strip().split(' '))
+    min_x = min(x, y + z)
+    min_y = min(y, x + z)
+    print(min_x * b + min_y * w)
