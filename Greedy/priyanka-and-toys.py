@@ -1,7 +1,7 @@
 # Priyanka and Toys
 # Developer: Murillo Grubler
 # Link: https://www.hackerrank.com/challenges/priyanka-and-toys/problem
-# Time complexity: O(n)
+# Time complexity: O(n log n)
 
 def toys(w):
     w.sort()
