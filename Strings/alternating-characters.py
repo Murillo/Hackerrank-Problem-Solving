@@ -2,6 +2,7 @@
 # Developer: Murillo Grubler
 # Link: https://www.hackerrank.com/challenges/alternating-characters/problem
 
+# Time complexity: O(n)
 def alternatingCharacters(s):
     sumChars = 0
     for i in range(len(s)):
