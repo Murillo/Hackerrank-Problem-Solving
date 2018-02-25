@@ -6,8 +6,8 @@
 </div>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-71-brightgreen.svg">
-	<img src="https://img.shields.io/badge/Points-1381-yellow.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-72-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Points-1401-yellow.svg">
 	<img src="https://img.shields.io/badge/Language-Python-blue.svg">
 </p>
 
@@ -61,8 +61,9 @@ This repository contains the challenges of [algorithms](https://www.hackerrank.c
 | Implementation        | [The Time in Words](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/the-time-in-words.py)                       | Medium  | 25      | 25           |
 | Strings        | [Super Reduced String](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Strings/reduced-string.py)                       | Easy  | 10      | 10           |
 | Strings        | [CamelCase](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Strings/camel-case.py)                       | Easy  | 15      | 15           |
-| Strings        | [Two Characters](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Strings/two-characters.py)                       | Easy  | 20      | 20           |
 | Strings        | [Mars Exploration](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Strings/mars-exploration.py)                       | Easy  | 15      | 15           |
+| Strings        | [Two Characters](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Strings/two-characters.py)                       | Easy  | 20      | 20           |
+| Strings        | [Alternating Characters](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Strings/alternating-characters.py)                       | Easy  | 20      | 20           |
 | Strings        | [HackerRank in a String!](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Strings/hackerrank-in-a-string.py)                       | Easy  | 20      | 20           |
 | Strings        | [Pangrams](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Strings/pangrams.py)                       | Easy  | 20      | 20           |
 | Strings        | [Funny String](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Strings/funny-string.py)                       | Easy  | 25      | 25           |
