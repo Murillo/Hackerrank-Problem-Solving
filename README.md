@@ -6,8 +6,8 @@
 </div>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-73-brightgreen.svg">
-	<img src="https://img.shields.io/badge/Points-1421-yellow.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-74-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Points-1461-yellow.svg">
 	<img src="https://img.shields.io/badge/Language-Python-blue.svg">
 </p>
 
@@ -86,5 +86,6 @@ This repository contains the challenges of [algorithms](https://www.hackerrank.c
 | Greedy         | [Priyanka and Toys](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Greedy/priyanka-and-toys.py)                       | Easy  | 30      | 30           |
 | Greedy         | [Mark and Toys](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Greedy/mark-and-toys.py)                       | Easy  | 35      | 35           |
 | Greedy         | [Permuting Two Arrays](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Greedy/two-arrays.py)                       | Easy  | 40      | 40           |
+| Greedy         | [Jim and the Orders](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Greedy/jim-and-the-orders.py)                       | Easy  | 40      | 40           |
 | Greedy         | [Greedy Florist](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Greedy/greedy-florist.py)                       | Medium  | 35      | 35           |
 | Recursion         | [The Power Sum](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Recursion/the-power-sum.py)                       | Medium  | 20      | 20           |
