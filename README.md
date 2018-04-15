@@ -6,8 +6,8 @@
 </div>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-78-brightgreen.svg">
-	<img src="https://img.shields.io/badge/Points-1551-yellow.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-79-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Points-1591-yellow.svg">
 	<img src="https://img.shields.io/badge/Language-Python-blue.svg">
 </p>
 
@@ -93,3 +93,4 @@ This repository contains the challenges of [algorithms](https://www.hackerrank.c
 | Recursion         | [The Power Sum](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Recursion/the-power-sum.py)                       | Medium  | 20      | 20           |
 | Bit Manipulation         | [Lonely Integer](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Bit%20Manipulation/lonely-integer.py)                       | Easy  | 20      | 20           |
 | Bit Manipulation         | [Maximizing XOR](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Bit%20Manipulation/maximizing-xor.py)                       | Easy  | 30      | 30           |
+| Bit Manipulation         | [Flipping bits](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Bit%20Manipulation/flipping-bits.py)                       | Easy  | 40      | 40           |
