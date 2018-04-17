@@ -6,8 +6,8 @@
 </div>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-79-brightgreen.svg">
-	<img src="https://img.shields.io/badge/Points-1591-yellow.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-80-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Points-1651-yellow.svg">
 	<img src="https://img.shields.io/badge/Language-Python-blue.svg">
 </p>
 
@@ -81,6 +81,7 @@ This repository contains the challenges of [algorithms](https://www.hackerrank.c
 | Sorting        | [Find the Median](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Sorting/find-the-median.py)                       | Easy  | 35      | 35           |  
 | Graph Theory        | [Even Tree](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Graph%20Theory/even-tree.py)                       | Medium  | 50      | 50           |  
 | Dynamic Programming        | [Fibonacci Modified](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Sorting/countingsort2.py)                       | Medium  | 45      | 45           |  
+| Dynamic Programming        | [The Coin Change Problem](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Dynamic%20Programming/coin-change.py)                       | Medium  | 60      | 60           |  
 | Search         | [Hackerland Radio Transmitters](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Search/hackerland-radio-transmitters.py)                       | Medium  | 25      | 25           |  
 | Search         | [Ice Cream Parlor](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Search/icecream-parlor.py)                       | Easy  | 30      | 30           |  
 | Greedy         | [Marc's Cakewalk](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Greedy/marcs-cakewalk.py)                       | Easy  | 15      | 15           |  
