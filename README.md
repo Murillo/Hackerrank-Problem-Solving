@@ -6,8 +6,8 @@
 </div>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-80-brightgreen.svg">
-	<img src="https://img.shields.io/badge/Points-1651-yellow.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-81-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Points-1686-yellow.svg">
 	<img src="https://img.shields.io/badge/Language-Python-blue.svg">
 </p>
 
@@ -79,6 +79,7 @@ This repository contains the challenges of [algorithms](https://www.hackerrank.c
 | Sorting        | [Counting Sort 2](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Sorting/countingsort2.py)                       | Easy  | 30      | 30           |  
 | Sorting        | [Running Time of Algorithms](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Sorting/runningtime.py)                       | Easy  | 30      | 30           |
 | Sorting        | [Find the Median](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Sorting/find-the-median.py)                       | Easy  | 35      | 35           |  
+| Sorting        | [Closest Numbers](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Sorting/closest-numbers.py)                       | Easy  | 35      | 35           |  
 | Graph Theory        | [Even Tree](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Graph%20Theory/even-tree.py)                       | Medium  | 50      | 50           |  
 | Dynamic Programming        | [Fibonacci Modified](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Sorting/countingsort2.py)                       | Medium  | 45      | 45           |  
 | Dynamic Programming        | [The Coin Change Problem](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Dynamic%20Programming/coin-change.py)                       | Medium  | 60      | 60           |  
