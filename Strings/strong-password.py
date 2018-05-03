@@ -1,6 +1,7 @@
 # Strong Password
 # Developer: Murillo Grubler
 # Link: https://www.hackerrank.com/challenges/strong-password/problem
+# Time complexity: O(n)
 
 def minimumNumber(n, password):
     total = 0
@@ -10,18 +11,17 @@ def minimumNumber(n, password):
     upper_case = list([i for i in "ABCDEFGHIJKLMNOPQRSTUVWXYZ"])
     special_characters = list([i for i in "!@#$%^&*()-+"])
 
-    if len(password) >= at_least:
-        if not any(x in numbers for x in password):
-            total += 1
-        if not any(x in lower_case for x in password):
-            total += 1
-        if not any(x in upper_case for x in password):
-            total += 1
-        if not any(x in special_characters for x in password):
-            total += 1
-    else:
-        total = at_least - len(password)
+    if not any(x in numbers for x in password):
+        total += 1
+    if not any(x in lower_case for x in password):
+        total += 1
+    if not any(x in upper_case for x in password):
+        total += 1
+    if not any(x in special_characters for x in password):
+        total += 1
 
+    rest = at_least - len(password)
+    total = rest if rest > 0 and rest >= total else total
     return total
 
 n = int(input().strip())
