@@ -64,6 +64,7 @@ This repository contains the challenges of [algorithms](https://www.hackerrank.c
 | Strings        | [Super Reduced String](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Strings/reduced-string.py)                       | Easy  | 10      | 10           |
 | Strings        | [CamelCase](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Strings/camel-case.py)                       | Easy  | 15      | 15           |
 | Strings        | [Mars Exploration](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Strings/mars-exploration.py)                       | Easy  | 15      | 15           |
+| Strings        | [Strong Password](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Strings/strong-password.py)                       | Easy  | 15      | 15           |
 | Strings        | [Two Characters](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Strings/two-characters.py)                       | Easy  | 20      | 20           |
 | Strings        | [Alternating Characters](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Strings/alternating-characters.py)                       | Easy  | 20      | 20           |
 | Strings        | [HackerRank in a String!](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Strings/hackerrank-in-a-string.py)                       | Easy  | 20      | 20           |
