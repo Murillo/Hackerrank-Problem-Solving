@@ -6,8 +6,8 @@
 </div>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-81-brightgreen.svg">
-	<img src="https://img.shields.io/badge/Points-1686-yellow.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-82-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Points-1701-yellow.svg">
 	<img src="https://img.shields.io/badge/Language-Python-blue.svg">
 </p>
 
