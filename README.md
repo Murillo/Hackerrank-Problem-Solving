@@ -6,8 +6,8 @@
 </div>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-86-brightgreen.svg">
-	<img src="https://img.shields.io/badge/Points-1811-yellow.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-87-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Points-1856-yellow.svg">
 	<img src="https://img.shields.io/badge/Language-Python-blue.svg">
 </p>
 
@@ -89,6 +89,7 @@ This repository contains the challenges of [algorithms](https://www.hackerrank.c
 | Dynamic Programming        | [The Coin Change Problem](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Dynamic%20Programming/coin-change.py)                       | Medium  | 60      | 60           |  
 | Search         | [Hackerland Radio Transmitters](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Search/hackerland-radio-transmitters.py)                       | Medium  | 25      | 25           |  
 | Search         | [Ice Cream Parlor](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Search/icecream-parlor.py)                       | Easy  | 30      | 30           |  
+| Search         | [Missing Numbers](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Search/missing-numbers.py)                       | Easy  | 45      | 45           |  
 | Greedy         | [Marc's Cakewalk](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Greedy/marcs-cakewalk.py)                       | Easy  | 15      | 15           |  
 | Greedy         | [Luck Balance](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Greedy/luck-balance.py)                       | Easy  | 20      | 20           |
 | Greedy         | [Priyanka and Toys](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Greedy/priyanka-and-toys.py)                       | Easy  | 30      | 30           |
