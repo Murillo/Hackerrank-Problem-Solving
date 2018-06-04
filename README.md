@@ -6,8 +6,8 @@
 </div>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-87-brightgreen.svg">
-	<img src="https://img.shields.io/badge/Points-1856-yellow.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-88-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Points-1876-yellow.svg">
 	<img src="https://img.shields.io/badge/Language-Python-blue.svg">
 </p>
 
@@ -47,6 +47,7 @@ This repository contains the challenges of [algorithms](https://www.hackerrank.c
 | Implementation        | [Designer PDF Viewer](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/designer-pdf-viewer.py)                       | Easy  | 20      | 20           |
 | Implementation        | [Picking Numbers](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/picking-numbers.py)                       | Easy  | 20      | 20           |
 | Implementation        | [Sequence Equation](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/permutation-equation.py)                       | Easy  | 20      | 20           |
+| Implementation        | [Beautiful Triplets](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/beautiful-triplets.py)                       | Easy  | 20      | 20           |
 | Implementation        | [Angry Professor](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/angry-professor.py)                       | Easy  | 20      | 20           |
 | Implementation        | [Service Lane](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/service-lane.py)                       | Easy  | 20      | 20           |
 | Implementation        | [Minimum Distances](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/minimum-distances.py)                       | Easy  | 20      | 20           |
