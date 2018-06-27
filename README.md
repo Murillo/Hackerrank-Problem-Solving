@@ -6,8 +6,8 @@
 </div>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-89-brightgreen.svg">
-	<img src="https://img.shields.io/badge/Points-1917-yellow.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-90-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Points-1932-yellow.svg">
 	<img src="https://img.shields.io/badge/Language-Python-blue.svg">
 </p>
 
@@ -41,6 +41,7 @@ This repository contains the challenges of [algorithms](https://www.hackerrank.c
 | Implementation        | [Beautiful Days at the Movies](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/beautiful-days-at-the-movies.py)                       | Easy  | 15      | 15           |
 | Implementation        | [Electronics Shop](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/electronics-shop.py)                       | Easy  | 15      | 15           |
 | Implementation        | [The Hurdle Race](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/the-hurdle-race.py)                       | Easy  | 15      | 15           |
+| Implementation        | [Day of the Programmer](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/day-of-the-programmer.py)                       | Easy  | 15      | 15           |
 | Implementation        | [Jumping on the Clouds: Revisited ](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/jumping-on-the-clouds-revisited.py)                       | Easy  | 15      | 15           |
 | Implementation        | [Library Fine](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/library-fine.py)                       | Easy  | 15      | 15           |
 | Implementation        | [Viral Advertising](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/strange-advertising.py)                       | Easy  | 15      | 15           |
