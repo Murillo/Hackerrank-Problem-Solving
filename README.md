@@ -6,8 +6,8 @@
 </div>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-90-brightgreen.svg">
-	<img src="https://img.shields.io/badge/Points-1932-yellow.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-91-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Points-1952-yellow.svg">
 	<img src="https://img.shields.io/badge/Language-Python-blue.svg">
 </p>
 
@@ -53,6 +53,7 @@ This repository contains the challenges of [algorithms](https://www.hackerrank.c
 | Implementation        | [Service Lane](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/service-lane.py)                       | Easy  | 20      | 20           |
 | Implementation        | [Minimum Distances](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/minimum-distances.py)                       | Easy  | 20      | 20           |
 | Implementation        | [Repeated String](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/repeated-string.py)                       | Easy  | 20      | 20           |
+| Implementation        | [Sherlock and Squares](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/sherlock-and-squares.py)                       | Easy  | 20      | 20           |
 | Implementation        | [Utopian Tree](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/utopian-tree.py)                       | Easy  | 20      | 20           |
 | Implementation        | [Equalize the Array](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/equality-in-a-array.py)                       | Easy  | 20      | 20           |
 | Implementation        | [Jumping on the Clouds](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/jumping-on-the-clouds.py)                       | Easy  | 20      | 20           |
