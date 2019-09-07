@@ -67,7 +67,7 @@ This repository contains the challenges of [algorithms](https://www.hackerrank.c
 | Implementation        | [ACM ICPC Team](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/acm-icpc-team.py)                       | Easy  | 25      | 25           |
 | Implementation        | [Fair Rations](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/fair-rations.py)                       | Easy  | 25      | 25           |
 | Implementation        | [The Time in Words](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/the-time-in-words.py)                       | Medium  | 25      | 25           |
-| Implementation        | [Encryption](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/encryption.py)                       | Medium  | 21      | 30           |
+| Implementation        | [Encryption](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/encryption.py)                       | Medium  | 30      | 30           |
 | Strings        | [Super Reduced String](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Strings/reduced-string.py)                       | Easy  | 10      | 10           |
 | Strings        | [CamelCase](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Strings/camel-case.py)                       | Easy  | 15      | 15           |
 | Strings        | [Mars Exploration](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Strings/mars-exploration.py)                       | Easy  | 15      | 15           |
