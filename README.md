@@ -6,8 +6,8 @@
 </div>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-93-brightgreen.svg">
-	<img src="https://img.shields.io/badge/Points-2016‬-yellow.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-94-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Points-2046‬-yellow.svg">
 	<img src="https://img.shields.io/badge/Language-Python-blue.svg">
 </p>
 
@@ -105,6 +105,7 @@ This repository contains the challenges of [algorithms](https://www.hackerrank.c
 | Greedy         | [Jim and the Orders](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Greedy/jim-and-the-orders.py)                       | Easy  | 40      | 40           |
 | Greedy         | [Greedy Florist](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Greedy/greedy-florist.py)                       | Medium  | 35      | 35           |
 | Recursion         | [The Power Sum](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Recursion/the-power-sum.py)                       | Medium  | 20      | 20           |
+| Recursion         | [Recursive Digit Sum](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Recursion/recursive-digit-sum.py)                       | Medium  | 30      | 30           |
 | Bit Manipulation         | [Lonely Integer](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Bit%20Manipulation/lonely-integer.py)                       | Easy  | 20      | 20           |
 | Bit Manipulation         | [Maximizing XOR](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Bit%20Manipulation/maximizing-xor.py)                       | Easy  | 30      | 30           |
 | Bit Manipulation         | [Flipping bits](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Bit%20Manipulation/flipping-bits.py)                       | Easy  | 40      | 40           |
