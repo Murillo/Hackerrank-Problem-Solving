@@ -68,6 +68,7 @@ This repository contains the challenges of [algorithms](https://www.hackerrank.c
 | Implementation        | [Fair Rations](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/fair-rations.py)                       | Easy  | 25      | 25           |
 | Implementation        | [The Time in Words](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/the-time-in-words.py)                       | Medium  | 25      | 25           |
 | Implementation        | [Modified Kaprekar Numbers](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/kaprekar-numbers.py)                       | Easy  | 30      | 30           |
+| Implementation        | [Cavity Map](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/cavity-map.py)                       | Easy  | 30      | 30           |
 | Implementation        | [Encryption](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/encryption.py)                       | Medium  | 30      | 30           |
 | Strings        | [Super Reduced String](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Strings/reduced-string.py)                       | Easy  | 10      | 10           |
 | Strings        | [CamelCase](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Strings/camel-case.py)                       | Easy  | 15      | 15           |
