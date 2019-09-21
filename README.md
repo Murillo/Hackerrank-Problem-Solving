@@ -6,8 +6,8 @@
 </div>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-95-brightgreen.svg">
-	<img src="https://img.shields.io/badge/Points-2076‬-yellow.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-96-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Points-2106‬-yellow.svg">
 	<img src="https://img.shields.io/badge/Language-Python-blue.svg">
 </p>
 
@@ -70,6 +70,7 @@ This repository contains the challenges of [algorithms](https://www.hackerrank.c
 | Implementation        | [Modified Kaprekar Numbers](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/kaprekar-numbers.py)                       | Easy  | 30      | 30           |
 | Implementation        | [Cavity Map](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/cavity-map.py)                       | Easy  | 30      | 30           |
 | Implementation        | [Encryption](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/encryption.py)                       | Medium  | 30      | 30           |
+| Implementation        | [Organizing Containers of Balls](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Implementation/organizing-containers-of-balls.py)                       | Medium  | 30      | 30           |
 | Strings        | [Super Reduced String](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Strings/reduced-string.py)                       | Easy  | 10      | 10           |
 | Strings        | [CamelCase](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Strings/camel-case.py)                       | Easy  | 15      | 15           |
 | Strings        | [Mars Exploration](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Strings/mars-exploration.py)                       | Easy  | 15      | 15           |
