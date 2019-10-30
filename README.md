@@ -6,8 +6,8 @@
 </div>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-96-brightgreen.svg">
-	<img src="https://img.shields.io/badge/Points-2106‬-yellow.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-97-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Points-2131-yellow.svg">
 	<img src="https://img.shields.io/badge/Language-Python-blue.svg">
 </p>
 
@@ -111,3 +111,4 @@ This repository contains the challenges of [algorithms](https://www.hackerrank.c
 | Bit Manipulation         | [Lonely Integer](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Bit%20Manipulation/lonely-integer.py)                       | Easy  | 20      | 20           |
 | Bit Manipulation         | [Maximizing XOR](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Bit%20Manipulation/maximizing-xor.py)                       | Easy  | 30      | 30           |
 | Bit Manipulation         | [Flipping bits](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Bit%20Manipulation/flipping-bits.py)                       | Easy  | 40      | 40           |
+| Stack         | [Balanced Brackets](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Stacks/balanced-brackets.py)                       | Medium  | 25      | 25           |
