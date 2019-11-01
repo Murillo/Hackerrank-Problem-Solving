@@ -6,8 +6,8 @@
 </div>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-97-brightgreen.svg">
-	<img src="https://img.shields.io/badge/Points-2131-yellow.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-100-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Points-2161-yellow.svg">
 	<img src="https://img.shields.io/badge/Language-Python-blue.svg">
 </p>
 
@@ -119,4 +119,7 @@ This repository contains the challenges of [algorithms](https://www.hackerrank.c
 ## Data Structures domain
 | Subdomain     | Challenge                               | Level | Max Score | Score Obtained |
 | :------------ |:--------------------------------------- |:-----:|:---------:|:--------------:|
+| Trees         | [Tree: Preorder Traversal](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Data%20Structures/Trees/tree-preorder-traversal.py)                       | Easy  | 10      | 10           |
+| Trees         | [Tree: Inorder Traversal](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Data%20Structures/Trees/tree-inorder-traversal.py)                       | Easy  | 10      | 10           |
+| Trees         | [Tree: Postorder Traversal](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Data%20Structures/Trees/tree-postorder-traversal.py)                       | Easy  | 10      | 10           |
 | Stack         | [Balanced Brackets](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Data%20Structures/Stacks/balanced-brackets.py)                       | Medium  | 25      | 25           |
