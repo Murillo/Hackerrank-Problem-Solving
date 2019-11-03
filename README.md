@@ -6,12 +6,12 @@
 </div>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-101-brightgreen.svg">
-	<img src="https://img.shields.io/badge/Points-2171-yellow.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-102-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Points-2191-yellow.svg">
 	<img src="https://img.shields.io/badge/Language-Python-blue.svg">
 </p>
 
-This repository contains the challenges of [algorithms](https://www.hackerrank.com/domains/algorithms) and [data strcture](https://www.hackerrank.com/domains/data-structures) of the site Hackerrank.
+This repository contains the challenges of [algorithms](https://www.hackerrank.com/domains/algorithms) and [data structure](https://www.hackerrank.com/domains/data-structures) of the site Hackerrank.
 
 ## Algorithms domain
 
@@ -123,4 +123,5 @@ This repository contains the challenges of [algorithms](https://www.hackerrank.c
 | Trees         | [Tree: Inorder Traversal](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Data%20Structures/Trees/tree-inorder-traversal.py)                       | Easy  | 10      | 10           |
 | Trees         | [Tree: Postorder Traversal](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Data%20Structures/Trees/tree-postorder-traversal.py)                       | Easy  | 10      | 10           |
 | Trees         | [Tree: Height of a Binary Tree](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Data%20Structures/Trees/tree-height-of-a-binary-tree.py)                       | Easy  | 10      | 10           |
+| Trees         | [Tree: Level Order Traversal](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Data%20Structures/Trees/tree-level-order-traversal.py)                       | Easy  | 20      | 20           |
 | Stack         | [Balanced Brackets](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Data%20Structures/Stacks/balanced-brackets.py)                       | Medium  | 25      | 25           |
