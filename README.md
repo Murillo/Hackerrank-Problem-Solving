@@ -6,8 +6,8 @@
 </div>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-102-brightgreen.svg">
-	<img src="https://img.shields.io/badge/Points-2191-yellow.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-103-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Points-2211-yellow.svg">
 	<img src="https://img.shields.io/badge/Language-Python-blue.svg">
 </p>
 
@@ -124,4 +124,5 @@ This repository contains the challenges of [algorithms](https://www.hackerrank.c
 | Trees         | [Tree: Postorder Traversal](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Data%20Structures/Trees/tree-postorder-traversal.py)                       | Easy  | 10      | 10           |
 | Trees         | [Tree: Height of a Binary Tree](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Data%20Structures/Trees/tree-height-of-a-binary-tree.py)                       | Easy  | 10      | 10           |
 | Trees         | [Tree: Level Order Traversal](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Data%20Structures/Trees/tree-level-order-traversal.py)                       | Easy  | 20      | 20           |
+| Trees         | [Binary Search Tree : Insertion](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Data%20Structures/Trees/binary-search-tree-insertion.py)                       | Easy  | 20      | 20           |
 | Stack         | [Balanced Brackets](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Data%20Structures/Stacks/balanced-brackets.py)                       | Medium  | 25      | 25           |
