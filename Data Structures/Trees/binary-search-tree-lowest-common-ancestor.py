@@ -39,9 +39,9 @@ class BinarySearchTree:
 
 def lca(root, v1, v2):
     if root.info > v1 and root.info > v2:
-        lca(root.left, v1, v2)
+        root = lca(root.left, v1, v2)
     elif root.info < v1 and root.info < v2:
-        lca(root.right, v1, v2)
+        root = lca(root.right, v1, v2)
     return root
 
 tree = BinarySearchTree()
