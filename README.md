@@ -6,8 +6,8 @@
 </div>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-105-brightgreen.svg">
-	<img src="https://img.shields.io/badge/Points-2271-yellow.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-106-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Points-2276-yellow.svg">
 	<img src="https://img.shields.io/badge/Language-Python-blue.svg">
 </p>
 
@@ -119,6 +119,7 @@ This repository contains the challenges of [algorithms](https://www.hackerrank.c
 ## Data Structures domain
 | Subdomain     | Challenge                               | Level | Max Score | Score Obtained |
 | :------------ |:--------------------------------------- |:-----:|:---------:|:--------------:|
+| Linked Lists         | [Reverse a linked list](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Data%20Structures/Linked%20Lists/reverse-a-linked-list.py)                       | Easy  | 5      | 5           |
 | Trees         | [Tree: Preorder Traversal](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Data%20Structures/Trees/tree-preorder-traversal.py)                       | Easy  | 10      | 10           |
 | Trees         | [Tree: Inorder Traversal](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Data%20Structures/Trees/tree-inorder-traversal.py)                       | Easy  | 10      | 10           |
 | Trees         | [Tree: Postorder Traversal](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Data%20Structures/Trees/tree-postorder-traversal.py)                       | Easy  | 10      | 10           |
