@@ -6,8 +6,8 @@
 </div>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-108-brightgreen.svg">
-	<img src="https://img.shields.io/badge/Points-2286-yellow.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-109-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Points-2291-yellow.svg">
 	<img src="https://img.shields.io/badge/Language-Python-blue.svg">
 </p>
 
@@ -121,6 +121,7 @@ This repository contains the challenges of [algorithms](https://www.hackerrank.c
 | :------------ |:--------------------------------------- |:-----:|:---------:|:--------------:|
 | Linked Lists         | [Insert a Node at the Tail of a Linked List](https://github.com/Murillo/Hackerrank-Problem-Solving/blob/master/Data%20Structures/Linked%20Lists/insert-a-node-at-the-tail-of-a-linked-list.py)                       | Easy  | 5      | 5           |
 | Linked Lists         | [Insert a node at the head of a linked list](https://github.com/Murillo/Hackerrank-Problem-Solving/blob/master/Data%20Structures/Linked%20Lists/insert-a-node-at-the-head-of-a-linked-list.py)                       | Easy  | 5      | 5           |
+| Linked Lists         | [Insert a node at a specific position in a linked list](https://github.com/Murillo/Hackerrank-Problem-Solving/blob/master/Data%20Structures/Linked%20Lists/insert-a-node-at-a-specific-position-in-a-linked-list.py)                       | Easy  | 5      | 5           |
 | Linked Lists         | [Reverse a linked list](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Data%20Structures/Linked%20Lists/reverse-a-linked-list.py)                       | Easy  | 5      | 5           |
 | Trees         | [Tree: Preorder Traversal](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Data%20Structures/Trees/tree-preorder-traversal.py)                       | Easy  | 10      | 10           |
 | Trees         | [Tree: Inorder Traversal](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Data%20Structures/Trees/tree-inorder-traversal.py)                       | Easy  | 10      | 10           |
