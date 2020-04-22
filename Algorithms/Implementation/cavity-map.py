@@ -12,7 +12,6 @@ def cavityMap(grid):
 
     for i in grid:
         print ("".join(i))
-        print ("\n")
 
 if __name__ == '__main__':
     n = int(input())
