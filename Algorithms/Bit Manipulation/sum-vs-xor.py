@@ -6,6 +6,6 @@ def sumXor(n):
         return 1
     return 1 << f'{n:b}'.count('0')
 
-n = 12
+n = int(input().strip())
 result = sumXor(n)
 print (result)
