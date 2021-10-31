@@ -6,8 +6,8 @@
 </div>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-112-brightgreen.svg">
-	<img src="https://img.shields.io/badge/Points-2326-yellow.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-113-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Points-2331-yellow.svg">
 	<img src="https://img.shields.io/badge/Language-Python-blue.svg">
 </p>
 
@@ -126,6 +126,7 @@ This repository contains the challenges of [algorithms](https://www.hackerrank.c
 | Linked Lists         | [Delete a Node](https://github.com/Murillo/Hackerrank-Problem-Solving/blob/master/Data%20Structures/Linked%20Lists/delete-a-node-from-a-linked-list.py)                       | Easy  | 5      | 5           |
 | Linked Lists         | [Reverse a linked list](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Data%20Structures/Linked%20Lists/reverse-a-linked-list.py)                       | Easy  | 5      | 5           |
 | Linked Lists         | [Compare two linked lists](https://github.com/Murillo/Hackerrank-Problem-Solving/blob/master/Data%20Structures/Linked%20Lists/compare-two-linked-lists.py)                       | Easy  | 5      | 5           |
+| Linked Lists         | [Cycle Detection](https://github.com/Murillo/Hackerrank-Problem-Solving/blob/master/Data%20Structures/Linked%20Lists/detect-whether-a-linked-list-contains-a-cycle.py)                       | Medium  | 5      | 5           |
 | Trees         | [Tree: Preorder Traversal](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Data%20Structures/Trees/tree-preorder-traversal.py)                       | Easy  | 10      | 10           |
 | Trees         | [Tree: Inorder Traversal](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Data%20Structures/Trees/tree-inorder-traversal.py)                       | Easy  | 10      | 10           |
 | Trees         | [Tree: Postorder Traversal](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Data%20Structures/Trees/tree-postorder-traversal.py)                       | Easy  | 10      | 10           |
