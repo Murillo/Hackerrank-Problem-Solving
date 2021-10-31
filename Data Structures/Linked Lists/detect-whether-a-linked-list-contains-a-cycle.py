@@ -34,7 +34,8 @@ def print_singly_linked_list(node, sep, fptr):
         if node:
             fptr.write(sep)
 
-# Function to detect cycle. 
+###################################
+#### Function to detect cycle. ####
 def has_cycle(head):
     if not head or not head.next:
         return False
@@ -46,6 +47,7 @@ def has_cycle(head):
         slower = slower.next
         faster = faster.next.next
     return False
+###################################
 
 if __name__ == '__main__':
     tests = int(input())
