@@ -49,9 +49,10 @@ def sortedInsert(head, data):
         next_node.prev = node
         return node
 
-    if head is not None:
+    if head:
         return sortedRecursion(head)
-    return None
+        
+    return DoublyLinkedListNode(data)
 
 #######################################################################
 
