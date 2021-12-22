@@ -1,52 +1,39 @@
-# Consider two sets of positive integers, A = {a0, a1, ..., an-1} 
-# and B = {b0, b1, ... , bm-1}. We say that a positive integer, x, 
-# is between sets A and B if the following conditions are satisfied:
+#!/bin/python3
 
-# 1. All elements in A are factors of x.
-# 2. x is a factor of all elements in B.
-
-# Developer: Murillo Grubler
-# Link: https://www.hackerrank.com/challenges/between-two-sets
-# Reference: http://www.4dsolutions.net/cgi-bin/py2html.cgi?script=/ocn/python/primes.py
-
-# Define functions
-def gcd(a,b):
-    """Return greatest common divisor using Euclid's Algorithm."""
-    while b:      
-        a, b = b, a % b
-    return a
-
-def lcm(a, b):
-    """Return lowest common multiple."""
-    return a * b / gcd(a, b)
-
-def GCD(terms):
-    "Return gcd of a list of numbers."
-    result = terms[0]
-    for i in range(1, len(terms)):
-        result = gcd(result, terms[i])
-    return result
-
-def LCM(terms):
-    "Return lcm of a list of numbers."
-    result = 1
-    for t in terms:
-        result = lcm(result, t)
-    return result
+import math
+import os
+import random
+import re
+import sys
+from collections import Counter
+from functools import reduce
+from fractions import gcd
+#
+# Complete the 'getTotalX' function below.
+#
+# The function is expected to return an INTEGER.
+# The function accepts following parameters:
+#  1. INTEGER_ARRAY a
+#  2. INTEGER_ARRAY b
+#
 
 def getTotalX(a, b):
-    lcm_value = LCM(a)
-    gcd_value = GCD(b)
-    counter = 0
-    multiple_lcm = lcm_value
-    while multiple_lcm <= gcd_value:
-        if (gcd_value % multiple_lcm) == 0:
-            counter += 1
-        multiple_lcm += lcm_value
-    return counter
+    # Write your code here
+    lcm_a = reduce(lambda x,y: x*y//gcd(x,y), a)
+    gcd_b = reduce(gcd, b)
+    print(sum(1 for x in range(lcm_a,gcd_b+1,lcm_a) if gcd_b%x==0))
 
-n, m = [int(points) for points in input().strip().split(' ')]
-a = list(map(int, input().strip().split(' ')))
-b = list(map(int, input().strip().split(' ')))
-total = getTotalX(a, b)
-print(total)
+if __name__ == '__main__':
+
+    first_multiple_input = input().rstrip().split()
+
+    n = int(first_multiple_input[0])
+
+    m = int(first_multiple_input[1])
+
+    arr = list(map(int, input().rstrip().split()))
+
+    brr = list(map(int, input().rstrip().split()))
+
+    total = getTotalX(arr, brr)
+
