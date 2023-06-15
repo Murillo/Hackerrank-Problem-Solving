@@ -6,8 +6,8 @@
 </div>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-121-brightgreen.svg">
-	<img src="https://img.shields.io/badge/Score-2481-yellow.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-122-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Score-2486-yellow.svg">
 	<img src="https://img.shields.io/badge/Language-Python-blue.svg">
 </p>
 
@@ -130,6 +130,7 @@ This repository contains the challenges of [algorithms](https://www.hackerrank.c
 | Linked Lists         | [Reverse a doubly linked list](https://github.com/Murillo/Hackerrank-Problem-Solving/blob/master/Data%20Structures/Linked%20Lists/reverse-a-doubly-linked-list.py)                       | Easy  | 5      | 5           |
 | Linked Lists         | [Inserting a Node Into a Sorted Doubly Linked List](https://github.com/Murillo/Hackerrank-Problem-Solving/blob/master/Data%20Structures/Linked%20Lists/insert-a-node-into-a-sorted-doubly-linked-list.py)                       | Easy  | 5      | 5           |
 | Linked Lists         | [Merge two sorted linked lists](https://github.com/Murillo/Hackerrank-Problem-Solving/blob/master/Data%20Structures/Linked%20Lists/merge-two-sorted-linked-lists.py)                       | Easy  | 5      | 5           |
+| Linked Lists         | [Delete duplicate-value nodes from a sorted linked list](https://github.com/Murillo/Hackerrank-Problem-Solving/blob/master/Data%20Structures/Linked%20Lists/delete-duplicate-value-nodes-from-a-sorted-linked-list.py)                       | Easy  | 5      | 5           |
 | Linked Lists         | [Cycle Detection](https://github.com/Murillo/Hackerrank-Problem-Solving/blob/master/Data%20Structures/Linked%20Lists/detect-whether-a-linked-list-contains-a-cycle.py)                       | Medium  | 5      | 5           |
 | Trees         | [Tree: Preorder Traversal](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Data%20Structures/Trees/tree-preorder-traversal.py)                       | Easy  | 10      | 10           |
 | Trees         | [Tree: Inorder Traversal](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Data%20Structures/Trees/tree-inorder-traversal.py)                       | Easy  | 10      | 10           |
