@@ -6,8 +6,8 @@
 </div>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-122-brightgreen.svg">
-	<img src="https://img.shields.io/badge/Score-2486-yellow.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-123-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Score-2536-yellow.svg">
 	<img src="https://img.shields.io/badge/Language-Python-blue.svg">
 </p>
 
@@ -145,3 +145,4 @@ This repository contains the challenges of [algorithms](https://www.hackerrank.c
 | Array         | [Left Rotation](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Data%20Structures/Array/array-left-rotation.py)                       | Easy  | 20      | 20           |
 | Array         | [Sparse Arrays](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Data%20Structures/Array/sparse-arrays.py)                       | Medium  | 25      | 25           |
 | Array         | [Array Manipulation](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Data%20Structures/Array/crush.py)                       | Hard  | 60      | 60           |
+| Queue         | [Truck Tour](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Data%20Structures/Queues/truck-tour.py)                       | Hard  | 50      | 50           |
