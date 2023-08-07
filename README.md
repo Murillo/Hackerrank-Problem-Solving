@@ -6,8 +6,8 @@
 </div>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-123-brightgreen.svg">
-	<img src="https://img.shields.io/badge/Score-2536-yellow.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-124-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Score-2556-yellow.svg">
 	<img src="https://img.shields.io/badge/Language-Python-blue.svg">
 </p>
 
@@ -138,6 +138,7 @@ This repository contains the challenges of [algorithms](https://www.hackerrank.c
 | Trees         | [Tree: Height of a Binary Tree](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Data%20Structures/Trees/tree-height-of-a-binary-tree.py)                       | Easy  | 10      | 10           |
 | Trees         | [Tree: Level Order Traversal](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Data%20Structures/Trees/tree-level-order-traversal.py)                       | Easy  | 20      | 20           |
 | Trees         | [Binary Search Tree : Insertion](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Data%20Structures/Trees/binary-search-tree-insertion.py)                       | Easy  | 20      | 20           |
+| Trees         | [Tree : Top View](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Data%20Structures/Trees/tree-top-view.py)                       | Easy  | 20      | 20           |
 | Trees         | [Binary Search Tree : Lowest Common Ancestor](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Data%20Structures/Trees/binary-search-tree-lowest-common-ancestor.py)                       | Easy  | 30      | 30           |
 | Trees         | [Is This a Binary Search Tree?](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Data%20Structures/Trees/is-binary-search-tree.py)                       | Medium  | 30      | 30           |
 | Stack         | [Equal Stacks](https://github.com/Murillo/Hackerrank-Algorithms/blob/master/Data%20Structures/Stacks/equal-stacks.py)                       | Easy  | 25      | 25
