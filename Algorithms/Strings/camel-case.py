@@ -1,8 +1,9 @@
 # CamelCase
 # Developer: Murillo Grubler
 # Link: https://www.hackerrank.com/challenges/camelcase/problem
+# Time complexity: O(n)
 
-letters = list('ABCDEFGHIJKLMNOPQRSTUVWXYZ')
+letters = set(list('ABCDEFGHIJKLMNOPQRSTUVWXYZ'))
 string = input().strip()
 total = 1
 for i in range(len(string)):
